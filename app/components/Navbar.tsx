@@ -2,7 +2,6 @@
 
 import React, { useCallback, useEffect, useState } from 'react';
 import cn from 'classnames'
-import classNames from 'classnames';
 import Reveal from './Reveal';
 
 const Navbar = () => {
