@@ -16,7 +16,7 @@ const Hero = () => {
         font-semibold block md:text-[40px]
         md:text-start md:inline">
             <span className="-ml-3">🚀</span>
-             Hey, I’m Vansh Kamra! {" "}
+             Hey, I&#8217;m Vansh Kamra! {" "}
             <span className="block text-[27px] highlight mt-2 md:text-[45px]
             md:inline md:mt-0">
                 Front-End Developer
@@ -25,13 +25,13 @@ const Hero = () => {
         <Reveal initialX={-30} delay={0.2}>
         <p className="text-center text-sm mx-6 
         md:text-[22px] md:text-start md:mx-0">
-          I’m obsessed with writing clean code and helping startups craft unique, impactful products.
+          I&#8217;m obsessed with writing clean code and helping startups craft unique, impactful products.
         </p></Reveal>
         <Reveal initialX={-40} delay={0.4}>
         <a href="mailto:22bec108@nith.ac.in"
          className="self-center bg-primary text-white
          p-2.5 rounded flex gap-2.5 items-center text-sm md:self-start md:text-xl/6">
-          Let's Connect{" "}
+          Let&#8217;s Connect{" "}
           <img src="/arrow_right_icon.svg" alt="Arrow right icon" />
          </a></Reveal>
         </div>

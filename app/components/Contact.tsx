@@ -45,7 +45,7 @@ const Contact = () => {
               className='self-center md:self-start bg-primary
               text-white p-2.5 rounded flex gap-2.5 items-center
               text-lg md:text-xl/l font-normal'>
-                Let's get in touch 
+                Let&#8217;s get in touch 
                 <img src='/mail_icon.svg'
                 alt='Mail icon'/>
               </a>
