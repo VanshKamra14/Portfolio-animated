@@ -1,0 +1,57 @@
+[
+    {
+        "thumbnail": "/ems.png",
+        "title": "Employee Management System",
+        "link": {
+           "label": "EMS",
+           "url": "https://boisterous-yeot-4f4b0f.netlify.app/"
+        },
+        "description": "Dynamic Employee Management: Add, Update, and remove employee records with ease.",
+        "languageIcons": ["/html_icon.png", "/css_icon.png", 
+    "/js_icon.png","/tail.png","/react_icon.png"]
+    },
+    {
+        "thumbnail": "/shery.png",
+        "title": "Landing page using Shery Js",
+        "link": {
+           "label": "Shery.js",
+           "url": "https://stalwart-longma-deafa3.netlify.app/"
+        },
+        "description": "Leveraging SheryJs and GSAP to create enganging interactions and animations.",
+        "languageIcons": ["/html_icon.png","/css_icon.png", 
+    "/js_icon.png", "/gsap.png"]
+    }, 
+    {
+        "thumbnail": "/two_good.png",
+        "title": "Two Good Clone",
+        "link": {
+           "label": "TooGood",
+           "url": "https://vanshkamra14.github.io/twogood/"
+        },
+        "description": "Experience the ultimate web design—fast, sleek, and stunning!",
+        "languageIcons": ["/html_icon.png","/css_icon.png", 
+    "/js_icon.png"]
+    },
+    {
+        "thumbnail": "/duo_studio.png",
+        "title": "Duo Studio Clone",
+        "link": {
+           "label": "DuoStudio",
+           "url": "https://vanshkamra14.github.io/Duo-studio/"
+        },
+        "description": "Animation Magic with Locomotive Js and GSAP",
+        "languageIcons": ["/html_icon.png","/css_icon.png", 
+    "/js_icon.png", "/gsap.png", "/locojs.png"]
+    },
+    {
+        "thumbnail": "/family.png",
+        "title": "Family Golf Clone",
+        "link": {
+           "label": "Golf",
+           "url": "https://vanshkamra14.github.io/family-golf/"
+        },
+        "description": "Interactive animations and transitions",
+        "languageIcons": ["/html_icon.png","/css_icon.png", 
+    "/js_icon.png"]
+    }
+]

@@ -1,0 +1,16 @@
+[
+    {
+        "image": "/vibhav.png",
+        "company": "Team Vibhav ",
+        "role": "Volunteer",
+        "description": "Developed web pages for events, increasing user engagement by 20%. Managed club activities for 50+ students, organized 5+ events",
+        "dates": "Jan 2023 - March 2024"
+    },
+    {
+        "image": "/Music Club.png",
+        "company": "Music Club ",
+        "role": "Co-Convener",
+        "description": "Led and managed a team of 30+ members to organize musical events and performances.Managed social media and promotions, boosting audience engagement",
+        "dates": "July 2024 - Present"
+    }
+]

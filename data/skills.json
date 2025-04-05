@@ -1,0 +1,42 @@
+[
+    {
+        "name": "HTML",
+        "icon": "/html_icon.png"
+    },
+    {
+        "name": "CSS",
+        "icon": "/css_icon.png"
+    },
+    {
+        "name": "Javascript",
+        "icon": "/js_icon.png"
+    },
+    {
+        "name": "Typescript",
+        "icon": "/ts_icon.png"
+    },
+    {
+        "name": "React JS",
+        "icon": "/react_icon.png"
+    },
+    {
+        "name": "Tailwind CSS",
+        "icon": "/tail.png"
+    },
+    {
+        "name": "Next Js",
+        "icon": "/next_js.png"
+    },
+    {
+        "name": "GSAP",
+        "icon": "/gsap.png"
+    },
+    {
+        "name": "Locomotive Js",
+        "icon": "/locojs.png"
+    },
+    {
+        "name": "Shery Js",
+        "icon": "/sheryjs.png"
+    }
+]
