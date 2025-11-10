@@ -1,5 +1,16 @@
 [
     {
+        "thumbnail": "/Ai.png",
+        "title": "Ai Image Studio",
+        "link": {
+           "label": "Ai ",
+           "url": "https://aistudio-rc81bv6ae-vanshkamra14s-projects.vercel.app/"
+        },
+        "description": "Ai Image Studio: For creating high-quality images from text prompts.",
+        "languageIcons": ["/html_icon.png", "/css_icon.png", 
+    "/tail.png","/react_icon.png"]
+    },
+    {
         "thumbnail": "/ems.png",
         "title": "Employee Management System",
         "link": {
