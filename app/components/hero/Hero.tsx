@@ -19,7 +19,7 @@ const Hero = () => {
              Hey, I&#8217;m Vansh Kamra! {" "}
             <span className="block text-[27px] highlight mt-2 md:text-[45px]
             md:inline md:mt-0">
-                Front-End Developer
+                Software Developer
             </span>
         </h1></Reveal>
         <Reveal initialX={-30} delay={0.2}>
